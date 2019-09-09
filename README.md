@@ -8,7 +8,10 @@ Problem Statement-2: Identify the type of order each state receives and present 
 Problem Statement : Customer Lifetime value prediction - Based on Customer  segments, predict the revenue that can be extracted from each segment over a  life of the car -Regression/Time Series.
 
 
-
+# Notebook
+Contains solution solved in python.
+# Power Point Presentation
+Detail steps, insights and overview of Project.`
 
 # Conclusion
 
